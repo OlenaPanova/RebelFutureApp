@@ -16,3 +16,9 @@ RebelFutureApp is a cutting-edge application focused on blending quests with int
 
 ```bash
 git clone https://github.com/OlenaPanova/RebelFutureApp.git
+2. Navigate to the project directory and install dependencies: 
+cd RebelFutureApp npm install
+3. Run the development server:
+npm start
+## License:
+Licensed under MIT License.
